@@ -1,2 +1,2 @@
 # finanls
-Fiance Data Analysis
+Finance Data Analysis
